@@ -1,5 +1,5 @@
 # Overview
-This project demonstrates how to use the LightGBM machine learning model to perform traffic volume prediction based on real-world traffic data.
+This project demonstrates how to use the LightGBM machine learning model and SHAP to perform traffic volume prediction based on real-world traffic data.
 
 # Dataset
 Source: NZTA Open Data Portal – Traffic Counts Dataset
@@ -31,6 +31,8 @@ numpy
 sklearn
 
 matplotlib
+
+SHAP
 
 # You can install them using:
 
