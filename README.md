@@ -17,7 +17,7 @@ Extract the dataset ZIP file in the folder.
 
 Open the Jupyter Notebook (.ipynb) in any Python-compatible IDE (such as Jupyter Notebook, VS Code, etc.).
 
-Run the cells step-by-step to train and evaluate the LightGBM traffic prediction model.
+Run the cells step-by-step to train and evaluate the LightGBM traffic prediction model, or look at the cell output for results.
 
 # Requirements
 Ensure your Python environment includes the following packages:
